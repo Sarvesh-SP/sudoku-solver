@@ -1,4 +1,4 @@
-# sudokuSolver-Python
+# sudoku_solver-Python
 
 
 ## Built With
